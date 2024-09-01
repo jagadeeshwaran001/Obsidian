@@ -1,0 +1,1 @@
+[[Atom]] Excitation is formed as a [[Thermal Radiation]], Which is measured as heat.

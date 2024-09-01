@@ -1,0 +1,3 @@
+Atom is a  smallest particle contains [[Electron]], [[Neutron]], [[Proton]], and many other [[Atomic Particles]].
+
+The outer most part of the atom is [[Electron]] which surrounds the atom as a [[Cloud in Physics]] and its charge is negative, So one atom and another atom always repel each other, So no object in the universe is touching each other. The repulsion between the atom is sensed by the [[nervous]] and gives us the feeling of touching

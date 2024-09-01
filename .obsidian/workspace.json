@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6d3ce28a852e3ae5",
+        "id": "aefbc95448cfc5ff",
         "type": "tabs",
         "children": [
           {
-            "id": "6552e3ee89dfdc67",
+            "id": "6a2dab812c55e2dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/computer science/full stack develpment/js/De-Structuring object.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/computer science/full stack develpment/js/De-Structuring object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/computer science/full stack develpment/js/De-Structuring object.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Learning/computer science/full stack develpment/js/De-Structuring object.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -155,10 +147,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9cf55ac7fb6448f0",
+  "active": "6a2dab812c55e2dc",
   "lastOpenFiles": [
-    "Learning/computer science/full stack develpment/js/Default values to func arguments in es6.md",
+    "Learning/Science/Physics/Photon.md",
+    "Learning/Science/Physics/Atom.md",
+    "My Questions.md",
+    "Learning/Science/Physics/Heat.md",
+    "Learning/Science/Physics/Neutron.md",
+    "Learning/Science/Physics/Nuclear Force.md",
+    "neutrons.md",
+    "nested array.md",
+    "Learning/computer science/full stack develpment/js/Iterate Object.md",
+    "Learning/Science/Physics/Electron.md",
+    "Learning/Science/Physics/My Question on gravity and my own theory.md",
+    "Music production/Lyrics Ideas/Love.md",
+    "Music production/Song ideas/Music production ideas.md",
+    "Music production/Song ideas/Big bang or cosmos creation music idea.md",
+    "Music production/Lyrics Ideas",
+    "Music production/Song ideas/Untitled",
+    "Music production/Song ideas/Untitled.md",
+    "Music production/Song ideas",
+    "Music production",
     "Learning/computer science/full stack develpment/js/De-Structuring object.md",
+    "Learning/Science/Physics",
+    "Learning/Science",
+    "Learning/computer science/full stack develpment/js/Default values to func arguments in es6.md",
     "Learning/computer science/full stack develpment/js/Destructuring array.md",
     "Learning/computer science/full stack develpment/js/Errors.md",
     "Learning/computer science/full stack develpment/js/Es6.md",
@@ -173,19 +186,9 @@
     "Pasted image 20240829202237.png",
     "Pasted image 20240829202233.png",
     "Pasted image 20240829202221.png",
-    "nested array.md",
-    "Learning/computer science/full stack develpment/js/Const Keyword.md",
-    "Learning/computer science/full stack develpment/js/`` backtick temlate iterals.md",
-    "Iterate Object.md",
-    "Refer.md",
     "Learning/computer science/full stack develpment/Interview question important notes",
-    "Learning/Untitled.md",
     "Learning/computer science/full stack develpment/js",
     "Learning/computer science/full stack develpment",
-    "Learning/computer science",
-    "Learning/front-end",
-    "Learning",
-    "Education-App/choosing UI.md",
-    "Education-App"
+    "Learning/computer science"
   ]
 }
