@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "97650c00f64b5359",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d3ce28a852e3ae5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6552e3ee89dfdc67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/computer science/full stack develpment/js/De-Structuring object.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e97b431835a415f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "036992560ba33b85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cf55ac7fb6448f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "55fad1ffed4779c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21050dfe4dc2619b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "8161ae525dbebd26",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f0331606e9286259",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdf750d6b3ed856a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36900492c5a4442c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Learning/computer science/full stack develpment/js/De-Structuring object.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e7df62884d5d12cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Learning/computer science/full stack develpment/js/De-Structuring object.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bddf6c5e9c85b37e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "79db00200f0ff6da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Learning/computer science/full stack develpment/js/De-Structuring object.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9cf55ac7fb6448f0",
+  "lastOpenFiles": [
+    "Learning/computer science/full stack develpment/js/Default values to func arguments in es6.md",
+    "Learning/computer science/full stack develpment/js/De-Structuring object.md",
+    "Learning/computer science/full stack develpment/js/Destructuring array.md",
+    "Learning/computer science/full stack develpment/js/Errors.md",
+    "Learning/computer science/full stack develpment/js/Es6.md",
+    "Learning/computer science/full stack develpment/js/for-in loop.md",
+    "Learning/computer science/full stack develpment/js/For-of loop and Object , array.md",
+    "Learning/computer science/full stack develpment/js/Var Keyword.md",
+    "Learning/computer science/full stack develpment/js/Object.create().md",
+    "Learning/computer science/full stack develpment/js/Let Keyword.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Uncaught TypeError.md",
+    "Pasted image 20240829202237.png",
+    "Pasted image 20240829202233.png",
+    "Pasted image 20240829202221.png",
+    "nested array.md",
+    "Learning/computer science/full stack develpment/js/Const Keyword.md",
+    "Learning/computer science/full stack develpment/js/`` backtick temlate iterals.md",
+    "Iterate Object.md",
+    "Refer.md",
+    "Learning/computer science/full stack develpment/Interview question important notes",
+    "Learning/Untitled.md",
+    "Learning/computer science/full stack develpment/js",
+    "Learning/computer science/full stack develpment",
+    "Learning/computer science",
+    "Learning/front-end",
+    "Learning",
+    "Education-App/choosing UI.md",
+    "Education-App"
+  ]
+}
