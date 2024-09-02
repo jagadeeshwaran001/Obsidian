@@ -1,0 +1,1 @@
+Scientist belives that Dark energy is opposite to the [[Gravity]], Gravity shrinks the [[space-time]], where as [[Dark Energy]] expands it.
