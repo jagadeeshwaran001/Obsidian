@@ -1,3 +1,4 @@
+It is introduced in [[Es6]]
 [[Rest operator ...]] is used to build a smaller box and pack items it to it.
 
 The [[Rest operator ...]] allows you to take items from an [[Array]] and use them to create a separate sub-[[Array]]
