@@ -35,8 +35,48 @@
             "id": "c127de1dfb38da12",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Learning/computer science/full stack develpment/js/Data structure/Object.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "377a6cec95d7369a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/computer science/full stack develpment/js/For-of loop and Object , array.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f10c107c72dd34e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/computer science/full stack develpment/js/Iterate Object.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee6ff684c09f01e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "push().md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -220,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -294,6 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning/computer science/full stack develpment/js/Iterate Object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,6 +351,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learning/computer science/full stack develpment/js/Iterate Object.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -331,7 +373,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learning/computer science/full stack develpment/js/Iterate Object.md"
+              }
             }
           },
           {
@@ -360,13 +404,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c127de1dfb38da12",
+  "active": "6f10c107c72dd34e",
   "lastOpenFiles": [
-    "Learning/computer science/full stack develpment/js/typeof.md",
+    "Learning/computer science/full stack develpment/js/For-of loop and Object , array.md",
+    "Learning/computer science/full stack develpment/js/Destructuring array.md",
+    "Learning/computer science/full stack develpment/js/spread operator ....md",
     "Learning/computer science/full stack develpment/js/Data structure/Array.md",
+    "[.md",
+    "Learning/computer science/full stack develpment/js/Data structure/Object.md",
+    "push().md",
+    "Learning/computer science/full stack develpment/js/De-Structuring object.md",
+    "Learning/computer science/full stack develpment/js/typeof.md",
     "Learning/computer science/full stack develpment/js/Built in methods",
     "Learning/computer science/full stack develpment/js/Rest operator ....md",
-    "Learning/computer science/full stack develpment/js/spread operator ....md",
     "Untitled",
     "Learning/computer science/full stack develpment/js/Data structure/Data Structure in js.md",
     "Learning/computer science/full stack develpment/js/Data structure/Set.md",
@@ -376,7 +426,6 @@
     "Learning/computer science/full stack develpment/js/Built in methods/filter.md",
     "Learning/computer science/full stack develpment/js/Method.md",
     "Learning/computer science/full stack develpment/js/Built in methods/forEach.md",
-    "Learning/computer science/full stack develpment/js/Data structure/Object.md",
     "Learning/computer science/full stack develpment/js/Const Keyword.md",
     "Problems/Build time takes too long.md",
     "Problems",
@@ -387,10 +436,6 @@
     "Learning/computer science/full stack develpment/js/Errors.md",
     "Dark Energy.md",
     "Internal Error.md",
-    "Learning/Science/Physics/Photon.md",
-    "Learning/Science/Physics/Atom.md",
-    "My Questions.md",
-    "Learning/Science/Physics/Heat.md",
     "Music production/Lyrics Ideas",
     "Music production/Song ideas/Untitled",
     "Music production/Song ideas",

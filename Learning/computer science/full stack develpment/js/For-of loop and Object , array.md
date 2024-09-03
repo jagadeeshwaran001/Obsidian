@@ -1,4 +1,4 @@
-it's important to know that a for of loop cannot work on an object directly, since **an object is not iterable**.
+it's important to know that a for of loop cannot work on an object directly, since an object is [[Non-Iterable]]
 
 if the Object is creted by [[Object.create()]] Then the for-of loop only iterates the child inherited object keys only. This is the major advantage of the for-of.
 
