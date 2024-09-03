@@ -1,7 +1,7 @@
 Objects can be iterate with 3 built in methods.
 
-1.Object.keys() // it return the key as a [[array]]
-2.Object.valeus() //it return the value as a [[array]]
+1.Object.keys() // it return the key as a [[Array]]
+2.Object.valeus() //it return the value as a [[Array]]
 3.Object.entries() //it return the key as a [[nested array]] eg below
 
 `const car4 = {`

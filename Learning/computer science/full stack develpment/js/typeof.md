@@ -1,0 +1,1 @@
+This [[Keyword]] is used to find the type of the [[variable.]]

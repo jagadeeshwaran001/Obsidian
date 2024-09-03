@@ -4,18 +4,223 @@
     "type": "split",
     "children": [
       {
-        "id": "aefbc95448cfc5ff",
+        "id": "d278a68c353872eb",
         "type": "tabs",
         "children": [
           {
-            "id": "6a2dab812c55e2dc",
+            "id": "5f2072d727c5e8c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/computer science/full stack develpment/js/Data structure/Data Structure in js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d6649b5ba4fb729",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/computer science/full stack develpment/js/spread operator ....md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c127de1dfb38da12",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "07e4d189a93a78cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/computer science/full stack develpment/js/Data structure/Array.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88f0ad468991b842",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/computer science/full stack develpment/js/typeof.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e63ec6c4a8f585a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/computer science/full stack develpment/js/Data structure/Map.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a477d347b23176a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/computer science/full stack develpment/js/Data structure/Set.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b328754eb35b1a7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/computer science/full stack develpment/js/Iterable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0709b4a7e3991e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/computer science/full stack develpment/js/Built in methods/map iterator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d14b35294be0444",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/computer science/full stack develpment/js/Built in methods/filter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81e4e0ea82c70640",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/computer science/full stack develpment/js/Method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68da6fd42b52e187",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/computer science/full stack develpment/js/Built in methods/forEach.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c648d2d84c13338",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/computer science/full stack develpment/js/Method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5584ce3cd70d2dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/computer science/full stack develpment/js/Data structure/Object.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23e86c3609d948d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/computer science/full stack develpment/js/Data structure/Array.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6da0c44aa5a0c19f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/computer science/full stack develpment/js/Const Keyword.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f72db535ba5b545f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/computer science/full stack develpment/js/Iterate Object.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4800db5cf8401684",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/computer science/full stack develpment/js/Data structure/Array.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,7 +249,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "java",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,14 +333,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "7335b0467f75c4b7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,51 +356,51 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a2dab812c55e2dc",
+  "active": "c127de1dfb38da12",
   "lastOpenFiles": [
+    "Learning/computer science/full stack develpment/js/typeof.md",
+    "Learning/computer science/full stack develpment/js/Data structure/Array.md",
+    "Learning/computer science/full stack develpment/js/Built in methods",
+    "Learning/computer science/full stack develpment/js/Rest operator ....md",
+    "Learning/computer science/full stack develpment/js/spread operator ....md",
+    "Untitled",
+    "Learning/computer science/full stack develpment/js/Data structure/Data Structure in js.md",
+    "Learning/computer science/full stack develpment/js/Data structure/Set.md",
+    "Learning/computer science/full stack develpment/js/Data structure/Map.md",
+    "Learning/computer science/full stack develpment/js/Built in methods/map iterator.md",
+    "Learning/computer science/full stack develpment/js/Iterable.md",
+    "Learning/computer science/full stack develpment/js/Built in methods/filter.md",
+    "Learning/computer science/full stack develpment/js/Method.md",
+    "Learning/computer science/full stack develpment/js/Built in methods/forEach.md",
+    "Learning/computer science/full stack develpment/js/Data structure/Object.md",
+    "Learning/computer science/full stack develpment/js/Const Keyword.md",
+    "Problems/Build time takes too long.md",
+    "Problems",
+    "Learning/Science/Physics/Dark Energy.md",
+    "JavaScript objects.md",
+    "Learning/computer science/full stack develpment/js/Iterate Object.md",
+    "Learning/computer science/full stack develpment/js/Data structure",
+    "Learning/computer science/full stack develpment/js/Errors.md",
+    "Dark Energy.md",
+    "Internal Error.md",
     "Learning/Science/Physics/Photon.md",
     "Learning/Science/Physics/Atom.md",
     "My Questions.md",
     "Learning/Science/Physics/Heat.md",
-    "Learning/Science/Physics/Neutron.md",
-    "Learning/Science/Physics/Nuclear Force.md",
-    "neutrons.md",
-    "nested array.md",
-    "Learning/computer science/full stack develpment/js/Iterate Object.md",
-    "Learning/Science/Physics/Electron.md",
-    "Learning/Science/Physics/My Question on gravity and my own theory.md",
-    "Music production/Lyrics Ideas/Love.md",
-    "Music production/Song ideas/Music production ideas.md",
-    "Music production/Song ideas/Big bang or cosmos creation music idea.md",
     "Music production/Lyrics Ideas",
     "Music production/Song ideas/Untitled",
-    "Music production/Song ideas/Untitled.md",
     "Music production/Song ideas",
     "Music production",
-    "Learning/computer science/full stack develpment/js/De-Structuring object.md",
     "Learning/Science/Physics",
     "Learning/Science",
-    "Learning/computer science/full stack develpment/js/Default values to func arguments in es6.md",
-    "Learning/computer science/full stack develpment/js/Destructuring array.md",
-    "Learning/computer science/full stack develpment/js/Errors.md",
-    "Learning/computer science/full stack develpment/js/Es6.md",
-    "Learning/computer science/full stack develpment/js/for-in loop.md",
-    "Learning/computer science/full stack develpment/js/For-of loop and Object , array.md",
-    "Learning/computer science/full stack develpment/js/Var Keyword.md",
-    "Learning/computer science/full stack develpment/js/Object.create().md",
-    "Learning/computer science/full stack develpment/js/Let Keyword.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Uncaught TypeError.md",
     "Pasted image 20240829202237.png",
     "Pasted image 20240829202233.png",
-    "Pasted image 20240829202221.png",
-    "Learning/computer science/full stack develpment/Interview question important notes",
-    "Learning/computer science/full stack develpment/js",
-    "Learning/computer science/full stack develpment",
-    "Learning/computer science"
+    "Pasted image 20240829202221.png"
   ]
 }
