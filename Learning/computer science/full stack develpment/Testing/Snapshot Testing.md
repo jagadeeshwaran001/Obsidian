@@ -1,0 +1,1 @@
+This is used by developers to verify that there are no regression in the [[DOM]]  and ensures has no regressions after some changes made in the code.

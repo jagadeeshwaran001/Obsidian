@@ -1,0 +1,2 @@
+Test is used to test the specific unit test scenario.
+This [[jest method]] has two arguments one is the output which prints after the test case passed, and another one is a [[callback function]] which executes the test case.

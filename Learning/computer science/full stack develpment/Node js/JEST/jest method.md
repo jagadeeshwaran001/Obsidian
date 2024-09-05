@@ -1,0 +1,1 @@
+The [[Method]] inside the [[jest]] framework.
