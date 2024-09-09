@@ -1,0 +1,1 @@
+ a lightweight movable pointer to a commit

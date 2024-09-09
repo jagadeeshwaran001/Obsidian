@@ -1,0 +1,1 @@
+representing your current working directory, the HEAD pointer can be moved to different branches, tags, or commits when using   [[git checkout]]

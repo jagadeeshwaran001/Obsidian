@@ -1,0 +1,1 @@
+It downloads all history from the remote tracking branch.
