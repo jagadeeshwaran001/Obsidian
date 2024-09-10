@@ -13,7 +13,7 @@ output: [[TypeError]]
 
 `TypeError: Assignment to constant variable.`
 
-eg2: This code explains the use of the [[const keyword]] to declare the [[Object]].
+eg2: This code explains the use of the [[Const Keyword]] to declare the [[Object]].
 
 `const a = {`
     `prop1: 10,`
