@@ -1,0 +1,1 @@
+This is the [[static method]] returns the prototype of the [[Object]].
