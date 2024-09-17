@@ -1,0 +1,1 @@
+A block of code that performs the specific task to avoid code reptation.

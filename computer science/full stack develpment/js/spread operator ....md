@@ -1,12 +1,12 @@
 it is introduced in [[Es6]]
 
-It is used to unpack a [[Object]].
+It is used to unpack a [[computer science/full stack develpment/js/Data structure/Object]].
 
-It is the shortest and easyiest way to copy of a [[Object]] into a newly created [[Object]].
+It is the shortest and easyiest way to copy of a [[computer science/full stack develpment/js/Data structure/Object]] into a newly created [[computer science/full stack develpment/js/Data structure/Object]].
 
 The spread operator allows you to pass all [[Array]] elements into a [[function]] without having to type them all individually
 
-[[spread operator ...]] is used to [[concate]] [[Array]]s and [[Object]]s
+[[spread operator ...]] is used to [[concate]] [[Array]]s and [[computer science/full stack develpment/js/Data structure/Object]]s
 
 `const fruits = ['apple', 'pear', 'plum']`
 `const berries = ['blueberry', 'strawberry']`
@@ -30,7 +30,7 @@ can convert [[string]] to [[Array]] using [[spread operator ...]]
 `const arrayOfChars = [...greeting];`
 `console.log(arrayOfChars); //  ['H', 'e', 'l', 'l', 'o']`
 
-copy a [[Object]] values without assigning the [[Refernce]] but the actual values.
+copy a [[computer science/full stack develpment/js/Data structure/Object]] values without assigning the [[Refernce]] but the actual values.
 
 `const car1 = {speed: 100}`
 `const car 2 = {...car1}`

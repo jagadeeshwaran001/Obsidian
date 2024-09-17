@@ -1,2 +1,2 @@
-To get the [[Prototype]] of the [[Object]] we can use [[__proto__]] to get that but that is deprecated.
+To get the [[computer science/full stack develpment/js/Prototype]] of the [[computer science/full stack develpment/js/Data structure/Object]] we can use [[__proto__]] to get that but that is deprecated.
 instead of `__proto__` we can use [[Object.getPrototypeOf()]].

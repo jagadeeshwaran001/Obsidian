@@ -1,6 +1,6 @@
 It is like a [[Array]] because it is [[Iterable]].
 
-With [[Map]] any values can be used as a key, but in [[Object]] only be [[string]] and symbols.
+With [[Map]] any values can be used as a key, but in [[computer science/full stack develpment/js/Data structure/Object]] only be [[string]] and symbols.
 
 The key must be [[unique]] in the [[Map]]
 

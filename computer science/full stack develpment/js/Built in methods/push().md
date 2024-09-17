@@ -1,1 +1,1 @@
-[[push()]] is a [[Method]] used to add a element at the end of the array.
+[[push()]] is a [[Method]] used to add a element at the end of the [[Array]].

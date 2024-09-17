@@ -7,7 +7,7 @@ Objects also be created by using [[Object.create()]]
 
 Objects are only [[Iterable]] only using [[Iterate Object]]
 
-Directly assigning a object to variable will copy the [[Refernce]] of the object, so if we edit the copied [[Object]] it also alter the original [[Object]] 
+Directly assigning a object to variable will copy the [[Refernce]] of the object, so if we edit the copied [[computer science/full stack develpment/js/Data structure/Object]] it also alter the original [[computer science/full stack develpment/js/Data structure/Object]] 
 const a = {speed : 100}
 const b = a;
 b.speed = 200

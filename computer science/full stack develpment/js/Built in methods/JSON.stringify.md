@@ -1,4 +1,4 @@
-This [[Method]] convers the js [[Object]] to [[JSON]] [[string]] .
+This [[Method]] convers the js [[computer science/full stack develpment/js/Data structure/Object]] to [[JSON]] [[string]] .
 
 `const  data = {name: "jagadeesh",age: "23"}`
 `const jsonStr = [[JSON.stringify]](data);`

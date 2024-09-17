@@ -1,1 +1,1 @@
-This is the [[static method]] returns the prototype of the [[Object]].
+This is the [[static method]] returns the prototype of the [[computer science/full stack develpment/js/Data structure/Object]].
