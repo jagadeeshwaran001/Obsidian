@@ -1,0 +1,1 @@
+cd change directory is a [[unix]] cmd which change the directory.

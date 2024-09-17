@@ -2,12 +2,14 @@ Eveything are same as the [[Let Keyword]] one addition is that the value of [[Co
 
 eg1: This code tries to change the value of the const variable.
 
-`const a = 10;`
-`function f() {`
-    `a = 9`
-    `console.log(a)`
-`}`
-`f();`
+```javascript
+const a = 10;
+function f() {
+    a = 9
+    console.log(a)
+}
+f();
+```
 
 output: [[TypeError]]
 
@@ -15,19 +17,21 @@ output: [[TypeError]]
 
 eg2: This code explains the use of the [[Const Keyword]] to declare the [[computer science/full stack develpment/js/Data structure/Object]].
 
-`const a = {`
-    `prop1: 10,`
-    `prop2: 9`
-`}`
+```javascript
+const a = {
+    prop1: 10,
+    prop2: 9
+}
 
-`// It is allowed`
-`a.prop1 = 3`
+// It is allowed
+a.prop1 = 3
 
-`// It is not allowed`
-`a = {`
-    `b: 10,`
-    `prop2: 9`
-`}`
+// It is not allowed
+a = {
+    b: 10,
+    prop2: 9
+}
+```
 
 output:
 

@@ -5,35 +5,39 @@ Its important to read all the examples:
 
 eg1: In this code we cannot access the b outside of the func but a can accessible any descendance of the function which it is belongs to`
 
-`let a = 10;`
-`function f() {`
-    `let b = 9`
-    `console.log(b);`
-    `console.log(a);`
-`}`
-`f();`
-
-
+```javascript
+let a = 10;
+function f() {
+    let b = 9
+    console.log(b);
+    console.log(a);
+}
+f();
+```
 
 output: 
 
-`9`
-`10`
+```
+9
+10
+```
 
 eg2:
 
-`let a = 10;`
-`function f() {`
-    `if (true) {`
-        `let b = 9`
-        `// It prints 9`
-        `console.log(b);`
-    `}`
-    `// It gives error as it`
-    `// defined in if block`
-    `console.log(b);`
-`}`
-`f()`
+```javascript
+let a = 10;
+function f() {
+    if (true) {
+        let b = 9
+        // It prints 9
+        console.log(b);
+    }
+    // It gives error as it
+    // defined in if block
+    console.log(b);
+}
+f()
+```
 
 `// It prints 10 , but due to error programs stops and this line will not execute`
 `console.log(a)`

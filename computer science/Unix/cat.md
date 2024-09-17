@@ -1,0 +1,1 @@
+This [[unix]] cmd used to print the content of the file in terminal.
