@@ -1,0 +1,1 @@
+Hashing is similar to [[encryption]], but it's one-way, meaning that once data is hashed, the resulting hash digest can't be cracked unless a brute force attack is used.

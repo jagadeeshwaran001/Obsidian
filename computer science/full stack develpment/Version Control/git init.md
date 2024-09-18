@@ -1,0 +1,1 @@
+this [[git]] cmd is used to make the existing folder as a [[git]] folder.
