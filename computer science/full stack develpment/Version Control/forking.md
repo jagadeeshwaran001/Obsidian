@@ -1,0 +1,1 @@
+in [[git]] forking creates the new repository, where as branch creates the new branch.

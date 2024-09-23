@@ -1,0 +1,1 @@
+does it proven how it's happen, red shift blue shift, if that is expanding in all directions then all the matters are seperate so we might only see the red shift, so how did they map 
