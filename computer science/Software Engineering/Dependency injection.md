@@ -1,4 +1,4 @@
-[[Dependency injection]] is a programming technique which a [[function]] or a [[computer science/full stack develpment/OOPS/Object|Object]] receives the Object of the other class [[computer science/full stack develpment/OOPS/Object|Object]] or a [[function]], instead of creating them internally.
+[[Dependency injection]] is a programming technique which a [[function]] or a [[computer science/full stack develpment/java/OOPS/Object|Object]] receives the Object of the other class [[computer science/full stack develpment/java/OOPS/Object|Object]] or a [[function]], instead of creating them internally.
 
 ref: code [[Without Dependency Injection]]
 

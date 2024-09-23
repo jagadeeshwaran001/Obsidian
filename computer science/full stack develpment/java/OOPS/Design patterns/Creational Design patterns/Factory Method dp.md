@@ -2,7 +2,7 @@ Defines an interface for creating objects, but lets subclasses alter the type of
 
 **Problem statement:**
 
-In a software system, we may have a requirement to crate a [[computer science/full stack develpment/OOPS/Object|Object]] that belongs to the family of related class. That specific object should be determined only in the run time based on some inputs or a configurations. Directly instantiate can lead the code to [[Tightly-coupled]] to specific class.
+In a software system, we may have a requirement to crate a [[computer science/full stack develpment/java/OOPS/Object|Object]] that belongs to the family of related class. That specific object should be determined only in the run time based on some inputs or a configurations. Directly instantiate can lead the code to [[Tightly-coupled]] to specific class.
 
 - **Decouple Code**: Avoid tight coupling between client code and the concrete classes it needs to instantiate.
 - **Extend Functionality**: Introduce new classes or change the instantiation process without modifying the existing code.
@@ -14,9 +14,9 @@ To address these issues, the Factory Method pattern provides an interface for cr
 
 The Factory Method pattern proposes the following solution:
 
-1. **Define a Common Interface**: Create an [[abstract class]] or [[interface]] that declares the factory method which will return the [[computer science/full stack develpment/OOPS/Object|Object]].
+1. **Define a Common Interface**: Create an [[abstract class]] or [[interface]] that declares the factory method which will return the [[computer science/full stack develpment/java/OOPS/Object|Object]].
 2. **Concrete Implementations**: Subclasses or concrete implementations will override the factory method to return an instance of a specific class.
-3. **Client Code**: The client code interacts with the factory method through the common [[interface]] or [[abstract class]], not directly with the [[concrete class]]es.
+3. **Client Code**: The client code interacts with the factory method through the common [[interface]] or [[abstract class]], not directly with the [[Concrete class]]es.
 
 **code example**:
 

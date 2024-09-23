@@ -1,0 +1,3 @@
+- **Shallow Copy**: In a shallow copy, only the references to the [[computer science/full stack develpment/java/OOPS/Object|Object]] are copied, not the actual objects themselves. If the original object contains references to other objects, the copied object will point to the same references.
+    
+- **Deep Copy**: In a deep copy, both the [[computer science/full stack develpment/java/OOPS/Object|Object]] and the objects it refers to are copied. This means that any nested objects within the original object are also copied, ensuring that the cloned object is independent of the original.
