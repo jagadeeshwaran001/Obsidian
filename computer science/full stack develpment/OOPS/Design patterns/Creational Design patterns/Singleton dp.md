@@ -1,6 +1,6 @@
 [[Singleton dp]] ensure that a class has only one instance throughout the application and providing the global point of access to that instance.
 
-In a software system, there is a need to control access to a shared resource (such as a database connection, configuration manager, or logging system). Creating multiple instances of the resource could lead to inconsistent behavior, unnecessary resource consumption, or conflicts. Additionally, having multiple points of access to the same shared resource can lead to [[synchronization]] issues in a [[multithreading]] environment.
+In a software system, there is a need to control access to a shared resource (such as a database connection, configuration manager, or logging system). Creating multiple instances of the resource could lead to inconsistent behavior, unnecessary resource consumption, or conflicts. Additionally, having multiple points of access to the same shared resource can lead to [[synchronization]] issues in a [[computer science/Software Engineering/multi-threading]] environment.
 
 To solve this, we need a mechanism that:
 
@@ -36,7 +36,7 @@ public class Singleton {
 
 **2.[[Thread-safe]] [[Singleton dp]]:**
 
-In [[multithreading]] environment one or more thread can call `getInstance()` method at a time. Leading to multiple instance can being created. To avoid this, you can make the [[Singleton dp]] [[Thread-safe]].
+In [[computer science/Software Engineering/multi-threading]] environment one or more thread can call `getInstance()` method at a time. Leading to multiple instance can being created. To avoid this, you can make the [[Singleton dp]] [[Thread-safe]].
 
 [[synchronized]] [[Keyword]] used to ensure thread-safety.
 

@@ -1,0 +1,1 @@
+Provides methods for shutting down the thread pool once all tasks are complete.

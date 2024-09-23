@@ -1,0 +1,1 @@
+[[computer science/full stack develpment/java/multi-threading|multi-threading]] 
