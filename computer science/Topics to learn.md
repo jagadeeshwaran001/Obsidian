@@ -1,0 +1,18 @@
+# Java
+- [[OOPS]]
+- [[Design Patterns]]
+- [[Spring]]
+- [[Spring-boot]]
+- [[spring-security]]
+- [[spring-batch]]
+- [[jmeter]]
+- [[jfrog]]
+- [[Redis]]
+- [[ngnix]]
+# Networking
+- [[AWS]]
+- [[Kafka]]
+- [[Docker]]
+- [[Jenkins]]
+- [[Kubernetes]]
+- [[Zookeeper]]
