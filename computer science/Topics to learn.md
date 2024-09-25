@@ -1,3 +1,9 @@
+# Front End
+- [[js]]
+	- Need to learn the js basics from namaste java script.
+- [[React]]
+- [[Nextjs]]
+- [[micro front end]]
 # Java
 - [[OOPS]]
 - [[Design Patterns]]
@@ -16,3 +22,6 @@
 - [[Jenkins]]
 - [[Kubernetes]]
 - [[Zookeeper]]
+# Search
+- [[Solr]]
+
