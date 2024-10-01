@@ -1,0 +1,1 @@
+grid is used to align [[html]] element in 2 dimensional manner.

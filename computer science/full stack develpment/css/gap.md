@@ -1,0 +1,1 @@
+gap [[css]] property can be used to create space between the items along the main axis of [[flexbox]]. You can also individually configure the gaps in rows and columns using `row-gap` and `column-gap` properties.

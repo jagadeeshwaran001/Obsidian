@@ -1,0 +1,1 @@
+The [[web application]] that can adopt the size of the browser in mobile view, tablet view like this is knows as [[responsive]] web pages.
