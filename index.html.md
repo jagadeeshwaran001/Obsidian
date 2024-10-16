@@ -1,0 +1,1 @@
+In [[React]] , this [[index.html]] file is where the [[React]] inject the app as element is the  body of this html file.

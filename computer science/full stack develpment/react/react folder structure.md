@@ -1,0 +1,2 @@
+- public - contains the icons,images, [[robots.txt]], [[manifest.txt]], [[index.html]]
+- src - contains [[App.css]], [[App.js]], [[App.test.js]], [[index.css]], [[index.js]], [[reportWebVitals.js]], [[setupTests.js]]

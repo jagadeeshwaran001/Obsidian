@@ -1,0 +1,1 @@
+In [[React]] this file gives the [[metadata]] of the page.
