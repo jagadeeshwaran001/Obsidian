@@ -1,1 +1,1 @@
-The nuclear force is a force that acts between [[hadrons]] , most commonly observed between [[Protons]]  and [[Neutron]]  of atoms. [[Neutrons]] and [[Protons]], both [[Nucleons]] , are affected by the nuclear force almost identically.
+The nuclear force is a force that acts between [[hadrons]] , most commonly observed between [[Proton]]s  and [[Neutron]]  of atoms. [[Neutrons]] and [[Proton]]s, both [[Nucleons]] , are affected by the nuclear force almost identically.
