@@ -1,0 +1,1 @@
+In programming [[Pure function]] is a [[function]] which always return the same output for the same argument values.
