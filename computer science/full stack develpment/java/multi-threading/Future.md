@@ -7,6 +7,7 @@ Tasks submitted via [[submit()]] return a [[Future]] object. You can:
 - `get(long timeout, TimeUnit unit)`Retrieves the result of the computation but only waits for the specified timeout. If the result is not available within the time, it throws a `TimeoutException`
 - **Cancel the task**: `future.cancel(true)`
 - `isCancelled()`
+
 ```java
 Future<Integer> future = executorService.submit(() -> {
     return 42; // Simulate a computation
