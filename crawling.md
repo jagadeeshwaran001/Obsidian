@@ -1,0 +1,1 @@
+Reading the content and Indexing every page in the internet is known as [[crawling]].

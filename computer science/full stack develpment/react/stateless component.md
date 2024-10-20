@@ -1,0 +1,1 @@
+A component which doesn't care track its own [[state]]

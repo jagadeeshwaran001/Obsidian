@@ -1,0 +1,1 @@
+ When the browser requests the application, return and load all necessary HTML, CSS and JavaScript immediately. This is known as _bundling_.

@@ -1,0 +1,1 @@
+state in [[react]] is created by [[useState]] [[hook]]

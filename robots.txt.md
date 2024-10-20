@@ -1,0 +1,1 @@
+A robots.txt file is ==a plain text file that instructs [[search engine crawlers]] on which URLs they can access on a website==. It is used to manage the activities of web crawlers and avoid overloading a website with requests.

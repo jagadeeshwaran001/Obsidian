@@ -1,0 +1,1 @@
+ When the browser requests the application, return only the minimum HTML, CSS and JavaScript needed to load the application. Additional resources are downloaded as required by the application, for example, when a user navigates to a specific section of the application. This is known as _lazy loading_ or _code splitting_.

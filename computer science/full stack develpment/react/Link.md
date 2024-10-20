@@ -1,0 +1,1 @@
+This is a in build component in [[React]] which is alternative for the [[anchor tag]], [[anchor tag]]'s default behaviour is to redirect the page by refreshing, in [[Single Page Application]] refresh is not recommendable.
