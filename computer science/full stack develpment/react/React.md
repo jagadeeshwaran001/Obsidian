@@ -1,0 +1,1 @@
+[[React]] [[js]], also known as React, is ==an [[open-source]] JavaScript [[library]] used to build user interfaces for web and mobile apps==.
