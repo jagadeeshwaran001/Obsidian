@@ -38,7 +38,7 @@ public class Singleton {
 
 In [[computer science/Software Engineering/multi-threading]] environment one or more thread can call `getInstance()` method at a time. Leading to multiple instance can being created. To avoid this, you can make the [[Singleton dp]] [[Thread-safe]].
 
-[[synchronized]] [[Keyword]] used to ensure thread-safety.
+[[synchronized]] [[Keyword]] used to ensure [[Thread-safe]].
 
 ```java
 public class Singleton {
@@ -157,7 +157,7 @@ public enum Singleton {
 
 **Explanation**:
 
-- **Enum**: The Java `enum` type inherently provides thread safety and guarantees that only one instance of the enum exists within the JVM.
+- **Enum**: The Java `enum` type inherently provides [[Thread-safe]]ty and guarantees that only one instance of the enum exists within the JVM.
 - **Serialization-safe**: Java ensures that the [[enum]] singleton is safe from [[serialization]] and [[deserialization]] attacks, which can otherwise break single-instance guarantees.
 
 **Drawbacks**: no Lazy Initialization.

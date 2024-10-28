@@ -1,7 +1,7 @@
 Object are [[Hash tables]].
 It is un-ordered and [[Non-Iterable]] key value pairs. 
 
-The key must be [[unique]] in the [[Map]]
+The key must be [[unique]] in the [[computer science/full stack develpment/js/Data structure/Map]]
 
 Objects also be created by using [[Object.create()]]
 
