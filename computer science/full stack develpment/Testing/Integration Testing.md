@@ -1,4 +1,4 @@
-This Testing is used to test how seperate part of the apps works.
+This Testing is used to test how separate part of the apps works.
 
 Testing how parts of your system interact with other parts of your system.
 

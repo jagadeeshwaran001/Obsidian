@@ -1,7 +1,7 @@
 # Front End
 - [[js]]
 	- Need to learn the js basics from namaste java script.
-- [[React]]
+- [[React]] - Higher order componet, Render props concept
 - [[Nextjs]]
 - [[micro front end]]
 # Java
