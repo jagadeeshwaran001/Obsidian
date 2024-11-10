@@ -2,7 +2,7 @@ There are many types of data structure in js
 
 1. [[Array]]
 2. [[computer science/full stack develpment/js/Data structure/Object]]
-3. [[Map]]
+3. [[computer science/full stack develpment/js/Data structure/Map]]
 4. [[Set]]
 5. [[Stack]]
 6. [[Queue]]
