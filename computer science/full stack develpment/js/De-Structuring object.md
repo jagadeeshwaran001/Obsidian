@@ -6,3 +6,19 @@ Destructuring assignment makes it easy to assign array values and object propert
 It Copyies the value of Object but the result is independent from the original object.
 
 While copying the object using destructuring the varible in left must be in the same name with same case or else it return [[undefined]].
+
+renaming is possible 
+
+```js
+const obj = {name: 'jagadeesh', age: 23}
+
+const {name: username, age: userage} = obj
+
+console.log(username);
+console.log(age);
+```
+
+```
+jagadeeshwaran 
+23
+```
