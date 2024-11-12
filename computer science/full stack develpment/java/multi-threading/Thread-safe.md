@@ -45,7 +45,7 @@ public class Main {
 }
 ```
 
-Here, by adding `synchronized` to the `increment()` and `getCount()` methods, only one thread can access these methods at a time, making the class **[[thread-safe]]**.
+Here, by adding `synchronized` to the `increment()` and `getCount()` methods, only one thread can access these methods at a time, making the class **[[Thread-safe]]**.
 
 
 # Other approch 
