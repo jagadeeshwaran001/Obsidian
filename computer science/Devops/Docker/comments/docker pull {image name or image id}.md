@@ -1,0 +1,1 @@
+This cmt is used to pull the images form the [[DockerHub]].
