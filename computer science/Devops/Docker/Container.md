@@ -9,6 +9,8 @@ Containers are madeup of layers of [[images]]
 
 > container has its own virtual [[linux]] file system internally 
 
+> By default there is no data persistence in the container, if we restart the container then all the data will be erased. This can be fix using [[docker volume]]
+
 In most of the case [[alphine]] linux is the base image of the container in docker, because it is very lightweight [[linux]]
 
 ![[Pasted image 20250320223747.png]]

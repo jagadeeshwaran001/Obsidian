@@ -4,3 +4,8 @@ This cmt used to run the docker [[images]] as a [[Container]]. if the image is n
 > -d => used to run the docker in the detached mode, meaning the container is running in the background instead of the current terminal window.                                                           eg: docker run -d redis
 
 > -p {localSystem port : container port} => used to specifty the port
+
+> --name => which provides the name for the container, by default it created the random name
+
+> --net => used to specify the [[docker network]]
+

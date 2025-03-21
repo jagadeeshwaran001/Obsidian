@@ -1,0 +1,1 @@
+This cmd is used to display the logs of the specified [[Container]]
