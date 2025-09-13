@@ -1,0 +1,1 @@
+The [[java]] [[computer science/full stack develpment/java/OOPS/Object|Object]] maintained in a [[spring IOC container]] is know as the bean

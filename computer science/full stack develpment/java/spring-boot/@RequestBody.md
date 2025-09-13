@@ -1,0 +1,1 @@
+This [[spring-annotation]] is used to get only the body of the [[http request]] as a [[REST Endpoint]] method argument in [[Spring-boot]].

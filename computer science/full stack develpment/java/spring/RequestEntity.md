@@ -1,0 +1,1 @@
+This is class same as the [[ResponseEntity]] in [[spring]] to capture the request I scenario where we need more details about the request like request headers etc.

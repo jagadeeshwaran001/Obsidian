@@ -1,0 +1,1 @@
+This annotations are used in the [[spring-annotation]] used for validating the request and response. [[spring-boot-validation]].

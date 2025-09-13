@@ -1,0 +1,1 @@
+This is the base for all the [[spring-annotation]]. If the class is annotated with this annotation then spring will create a object [[bean]] in the [[spring IOC container]].

@@ -1,0 +1,1 @@
+[[spring IOC container]] is the memory where the [[spring]] create all the [[bean]] and maintain the [[LifeCycle of the bean]]

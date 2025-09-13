@@ -1,0 +1,1 @@
+This [[spring-annotation]] is used to get the request header of the [[http request]] as a argument in the [[REST Endpoint]] in [[Spring-boot]].
