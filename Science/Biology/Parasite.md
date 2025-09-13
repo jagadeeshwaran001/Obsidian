@@ -1,0 +1,1 @@
+A parasite is an organism that lives on or in a host organism and gets its food from or at the expense of its host.

@@ -1,0 +1,1 @@
+A banyan is a type of [[Fig]] tree, most commonly referring to [[Ficus]] [[benghalensis]]

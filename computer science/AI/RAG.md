@@ -21,3 +21,5 @@
 
 ref: https://www.youtube.com/watch?v=6Pgmr7xMjiY
 
+ref: [[Unit testing RAG]]
+

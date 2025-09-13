@@ -1,0 +1,1 @@
+**Mistletoe** is the common name for [obligate](https://en.wikipedia.org/wiki/Obligate_parasite "Obligate parasite") [hemiparasitic](https://en.wikipedia.org/wiki/Parasitic_plant "Parasitic plant") [plants](https://en.wikipedia.org/wiki/Plant)

@@ -1,0 +1,1 @@
+Botany is the scientific study of [[plants]], encompassing their structure, function, classification, [[evolution]], and interactions with their environment.

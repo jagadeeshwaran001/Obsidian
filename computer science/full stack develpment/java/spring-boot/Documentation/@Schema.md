@@ -34,7 +34,7 @@ public class AccountsDto {
 }
 ```
 
->By Default the [[Swagger open-api]] does not scan the [[Global Exception]] class. So The response of the error will not ne caught in [[Swagger open-api]]. To rectify this we need to mention a [[spring-annotation]] `@Content` with `@Schema` in [[@ApiResponses or @ApiResponses]].
+>By Default the [[Swagger open-api]] does not scan the [[Global Exception]] class. So The response of the error will not ne caught in [[Swagger open-api]]. To rectify this we need to mention a [[validation-annotation]] `@Content` with `@Schema` in [[@ApiResponses or @ApiResponses]].
 
 eg:
 

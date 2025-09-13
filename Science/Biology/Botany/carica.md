@@ -1,0 +1,1 @@
+[[carica]] is a name for common [[Fig]].

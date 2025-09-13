@@ -1,0 +1,1 @@
+It refers to one unique kind of organism that can reproduce with others of the same species.
