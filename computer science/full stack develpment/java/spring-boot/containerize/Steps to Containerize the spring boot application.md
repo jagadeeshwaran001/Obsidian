@@ -1,0 +1,2 @@
+- First we need to mention the `<package>jar</package>` in the pom.xml after `<version>`.
+- 

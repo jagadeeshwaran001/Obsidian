@@ -1,0 +1,4 @@
+Author: [[Kevin Hoffman]]
+genre: [[Software methodology]]
+
+"Beyond the Twelve-Factor App" is a book by Kevin Hoffman that expands upon the original Twelve-Factor App methodology, which was developed by [[Heroku]] in 2012 as a set of guidelines for building cloud-native applications. The original twelve factors provide a foundation for creating applications that are scalable, maintainable, and well-suited for cloud environments. However, Hoffman's book argues that technological advancements since 2012 necessitate updates and additions to these guidelines to meet modern standards for application development.

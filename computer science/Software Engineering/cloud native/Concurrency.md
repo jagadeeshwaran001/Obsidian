@@ -1,0 +1,1 @@
+Processing a request in parallel manner is called [[Concurrency]]. This can be achieved through the [[horizontal scaling]]. and [[load balance]]ing.

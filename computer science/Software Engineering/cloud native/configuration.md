@@ -1,0 +1,1 @@
+According to [[15 Factor methodology]] [[configuration]] are the variable factor for each [[environment]] or [[deployment]]. 

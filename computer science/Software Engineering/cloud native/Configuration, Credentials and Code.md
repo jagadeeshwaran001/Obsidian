@@ -1,0 +1,1 @@
+- [[15 Factor methodology]] ensures the  [[configuration]] and [[credentials]] of the application is independently emphasizes, without code changes or the need to rebuild the application. **We should never club the configuration in the application codebase.**

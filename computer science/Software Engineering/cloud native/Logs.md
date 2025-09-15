@@ -1,0 +1,1 @@
+In [[Microservice]]s we do not put a log in a sperate location, instead we need to log that as a standard output and collect them sequentially and using external tools [[Log Aggregator]] we need to collect logs and put that in a single location.

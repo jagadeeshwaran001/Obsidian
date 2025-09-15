@@ -1,0 +1,1 @@
+Kenneth Douglas Stewart Anderson (8 March 1910 – 30 August 1974) was a Scottish-Indian writer and hunter who wrote books about his adventures in the [[jungles of South India]].

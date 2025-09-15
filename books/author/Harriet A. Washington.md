@@ -1,0 +1,1 @@
+Harriet A. Washington is an American writer and medical ethicist.

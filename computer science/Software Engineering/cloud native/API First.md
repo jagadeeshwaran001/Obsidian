@@ -1,0 +1,2 @@
+- Adopting the [[API First]] approach during the design phase of the [[Cloud Native]] application.
+- This design results in more reliable and testable integration with other systems as part of the deployment pipeline.

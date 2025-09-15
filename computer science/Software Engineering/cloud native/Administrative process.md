@@ -1,0 +1,1 @@
+Management task which support application like [[batch jobs]], [[data migration]], [[maintenance tasks]] should be treated as a seperate [[Microservice]]. The code to these task should also need to be [[Version Control]]ed, packaging along with the application.
