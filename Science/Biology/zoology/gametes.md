@@ -1,0 +1,1 @@
+A gamete (/ˈɡæmiːt/ GAM-eet) is a haploid cell that fuses with another [[haploid cell]] during fertilization in organisms that reproduce sexually.

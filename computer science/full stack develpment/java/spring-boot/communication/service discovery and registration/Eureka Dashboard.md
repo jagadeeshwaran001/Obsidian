@@ -1,0 +1,1 @@
+`http:host/eureka/apps` This end point is used to lint all the service registered to the [[Eureka server]] as a xml file.

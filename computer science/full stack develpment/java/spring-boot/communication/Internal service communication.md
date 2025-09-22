@@ -1,0 +1,1 @@
+For [[Internal service communication]] we can implement this by using [[service registration and service discovery]] [[Microservice design pattern]].
